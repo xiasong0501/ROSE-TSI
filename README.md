@@ -14,7 +14,7 @@
 ## GitHub Pages
 
 仓库 Settings → Pages → Deploy from a branch → main → /(root)。
-启用后地址：https://xiasong0501.github.io/rose-lab/
+启用后地址：https://xiasong0501.github.io/ROSE-TSI/
 向 main 推送修改后，GitHub Pages 自动重新发布。
 
 ## 内容说明
