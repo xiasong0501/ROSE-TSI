@@ -1,6 +1,6 @@
-# NTU ROSE LAB
+# Trustworthy Spatial Intelligence Team
 
-南洋理工大学 ROSE Lab 研究团队网站。默认中文，可切换英文。
+可信空间智能研究团队（TSI Team）网站，所属单位为南洋理工大学 ROSE Lab。默认中文，可切换英文。
 
 ## 维护内容
 

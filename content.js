@@ -310,7 +310,7 @@ window.ROSE_CONTENT = {
           {
             "title": "Attacking Action Discriminability in Latent World Models",
             "venue": "ICLR 2027 · Submission / Under Review",
-            "members": "Meiwen Ding · Xudong Jiang",
+            "members": "Meiwen Ding · Song Xia · Xudong Jiang",
             "description": {
               "zh": "通过抑制潜在动力学中的动作敏感性、扰乱多步预测，研究潜在世界模型及下游规划的对抗安全。",
               "en": "Studies adversarial security of latent world models and downstream planning by suppressing action sensitivity and disrupting multi-step predictions."
@@ -362,7 +362,8 @@ window.ROSE_CONTENT = {
 window.ROSE_TRANSLATIONS = {
   "zh": {
     "skip": "跳转至内容",
-    "team": "研究团队",
+    "team": "可信空间智能研究团队",
+    "affiliation": "ROSE Lab · 南洋理工大学",
     "research": "研究方向",
     "supervisor": "研究负责人",
     "core": "核心成员",
@@ -374,7 +375,8 @@ window.ROSE_TRANSLATIONS = {
   },
   "en": {
     "skip": "Skip to content",
-    "team": "Research team",
+    "team": "Trustworthy Spatial Intelligence Team",
+    "affiliation": "ROSE Lab · Nanyang Technological University",
     "research": "Research directions",
     "supervisor": "Principal Investigator",
     "core": "Core members",
